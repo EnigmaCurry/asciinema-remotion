@@ -1,6 +1,6 @@
 // src/Root.tsx
-import "./index.css";
 import "asciinema-player/dist/bundle/asciinema-player.css";
+import "./index.css";
 import {Composition, staticFile} from "remotion";
 import {MyComposition, MyCompositionProps} from "./Composition";
 
