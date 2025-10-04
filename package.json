@@ -7,10 +7,12 @@
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.355",
+    "@remotion/tailwind-v4": "4.0.355",
+    "asciinema-player": "^3.7.1",
     "react": "19.0.0",
     "react-dom": "19.0.0",
+    "react-use": "^17.6.0",
     "remotion": "4.0.355",
-    "@remotion/tailwind-v4": "4.0.355",
     "tailwindcss": "4.0.0"
   },
   "devDependencies": {

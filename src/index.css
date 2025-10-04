@@ -1,1 +1,7 @@
 @import "tailwindcss";
+/* Hide all built-in UI chrome from asciinema-player */
+.ap-play-button {
+  display: none !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
