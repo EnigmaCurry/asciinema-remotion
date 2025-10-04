@@ -31,8 +31,8 @@ async function getCastDurationSeconds(url: string): Promise<number> {
 
 const defaultProps: MyCompositionProps = {
   castPath: "casts/test1.cast",
-  cols: 100,
-  rows: 23,
+  cols: 80,
+  rows: 20,
   theme: "asciinema",
 };
 
